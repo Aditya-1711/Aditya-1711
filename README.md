@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi, I'm Aditya 👋<br><br>I am a Master's student in Robotics and Intelligent Systems at Nottingham Trent University, focused on building interpretable AI systems and applying machine learning to real-world domains including medical data and perception tasks.<br><br><br>🔭 I’m currently working on  <br>Artifical Perceptiona and Computantional Intelligence <br>👯 I’m looking to collaborate on  <br>Machine learning, AI, and robotics projects  <br><br>🤝 I’m looking for help with  <br>Advanced ML, deep learning, and Evolutionary Algorithm and Artifical Perception<br><br>🌱 I’m currently learning  <br>Deep learning and explainable AI  <br>
+# Hi, I'm Aditya 👋<br><br>I am a Master's student in Robotics and Intelligent Systems at Nottingham Trent University, focused on building interpretable AI systems and applying machine learning to real-world domains including computational intelligence and perception tasks.<br><br><br>🔭 I’m currently working on  <br>Artifical Perception and Computational Intelligence <br>👯 I’m looking to collaborate on  <br>Machine learning, AI, and robotics projects  <br><br>🤝 I’m looking for help with  <br>Advanced ML, deep learning, and Evolutionary Algorithm and Artificial Perception<br><br>🌱 I’m currently learning  <br>Deep learning and explainable AI  <br>
 
 
 ## 🌐 Socials:
