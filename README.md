@@ -29,10 +29,10 @@ Building perception and optimisation systems for autonomous robotics — from dr
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
 
 ## 🚀 Featured Projects
-- **[ARCHER – Cognitive Robotics System](https://github.com/Aditya-1711/archer_ros)** — LLM reasoning + ROS2 control, 80% autonomous navigation success
-- **[Grey Wolf Optimisation for 3D Drone Swarm Coordination](https://github.com/Aditya-1711/grey-wolf-optimization-GWO-)** — GWO-based multi-drone formation control, zero-collision solutions
-- **[Adaptive Code Safety Harness](https://github.com/Aditya-1711/zero-trust-system)** — Docker sandbox for secure AI/API code analysis, 50+ workloads evaluated
-- **[Breast Cancer Classification Pipeline](https://github.com/Aditya-1711/breast-cancer-perception)** — 98.25% accuracy, multi-model diagnostic pipeline
+- **[ARCHER – Cognitive Robotics System](https://github.com/Aditya-1711/archer_ros)** - LLM reasoning + ROS2 control, 80% autonomous navigation success
+- **[Grey Wolf Optimisation for 3D Drone Swarm Coordination](https://github.com/Aditya-1711/grey-wolf-optimization-GWO-)** - GWO-based multi-drone formation control, zero-collision solutions
+- **[Adaptive Code Safety Harness](https://github.com/Aditya-1711/zero-trust-system)** - Docker sandbox for secure AI/API code analysis, 50+ workloads evaluated
+- **[Breast Cancer Classification Pipeline](https://github.com/Aditya-1711/breast-cancer-perception)** - 98.25% accuracy, multi-model diagnostic pipeline
 
 ## 📊 GitHub Stats
 ![](https://github-readme-stats.vercel.app/api?username=Aditya-1711&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
