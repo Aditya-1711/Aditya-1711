@@ -2,7 +2,7 @@
 
 MSc Robotics & Intelligent Systems @ Nottingham Trent University | Swarm Intelligence · Multi-Agent Systems · Computer Vision
 
-Building perception and optimisation systems for autonomous robotics — from drone swarm coordination (PSO/GWO) to real-time computer vision and cognitive robotic architectures combining LLM reasoning with ROS2 control.
+Building perception and optimisation systems for autonomous robotics - from drone swarm coordination (PSO/GWO) to real-time computer vision and cognitive robotic architectures combining LLM reasoning with ROS2 control.
 
 **Currently working on:** Multi-agent swarm coordination and real-time perception systems for autonomous robots
 **Open to:** Robotics/AI internship roles, and collaboration on perception, sensor fusion, or swarm robotics projects
