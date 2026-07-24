@@ -1,24 +1,38 @@
-# 💫 About Me:
-🔭 I’m currently working on  <br>Robotics perception and multi-agent optimisation projects, including drone swarm coordination and real-time vision systems.<br><br>👯 I’m looking to collaborate on  <br>Robotics, computer vision, or autonomous systems projects - especially perception, sensor fusion, or swarm robotics.<br><br>🤝 I’m looking for help with  <br>ROS/robotics simulation integration and deploying perception models on real-time robotic platforms.<br><br>🌱 I’m currently learning  <br>Advanced robotics perception, reinforcement learning for control, and autonomous system design.<br><br>💬 Ask me about  <br>Computer vision, swarm optimisation, machine learning for robotics, or my drone swarm and perception projects.<br><br>⚡ Fun fact  <br>I transitioned from mechanical engineering to robotics and AI by building hands-on perception and autonomous system projects.
+# Aditya Kapile
 
+MSc Robotics & Intelligent Systems @ Nottingham Trent University | Swarm Intelligence · Multi-Agent Systems · Computer Vision
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/adu_1711) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/AdityaKapile/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aditya.kapile2025@my.ntu.ac.uk) 
+Building perception and optimisation systems for autonomous robotics — from drone swarm coordination (PSO/GWO) to real-time computer vision and cognitive robotic architectures combining LLM reasoning with ROS2 control.
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=plastic&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=plastic&logo=opencv&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=plastic&logo=nestjs&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=plastic&logo=nginx&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=plastic&logo=mysql&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=plastic&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=plastic&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=plastic&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=plastic&logo=plotly&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=plastic&logo=scipy&logoColor=%white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=plastic&logo=Arduino&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=plastic&logo=notion&logoColor=white) ![PlayStation Network](https://img.shields.io/badge/PSN-%230070D1.svg?style=plastic&logo=Playstation&logoColor=white) ![Riot Games](https://img.shields.io/badge/riotgames-D32936.svg?style=plastic&logo=riotgames&logoColor=white) ![nVIDIA](https://img.shields.io/badge/nVIDIA-%2376B900.svg?style=plastic&logo=nVIDIA&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aditya-1711&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Aditya-1711&theme=dark&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aditya-1711&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+**Currently working on:** Multi-agent swarm coordination and real-time perception systems for autonomous robots
+**Open to:** Robotics/AI internship roles, and collaboration on perception, sensor fusion, or swarm robotics projects
+**Ask me about:** Swarm optimisation (PSO/GWO), computer vision, or ROS2-based autonomous systems
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Aditya-1711&theme=transparent&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+📫 aditya.kapile2025@my.ntu.ac.uk · [LinkedIn](https://www.linkedin.com/in/adityakapile/) · [Portfolio](https://adityakpaile.me/) · [Instagram](https://www.instagram.com/adu_1711)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aditya-1711&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🔧 Core Stack
+![Python](https://img.shields.io/badge/python-3670A0?style=plastic&logo=python&logoColor=ffdd54)
+![ROS2](https://img.shields.io/badge/ROS2-22314E?style=plastic&logo=ros&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-black.svg?style=plastic&logo=opencv&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=PyTorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=TensorFlow&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=plastic&logo=scikit-learn&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=plastic&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=plastic&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=plastic&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white)
+![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=plastic&logo=git&logoColor=white)
+
+## 🚀 Featured Projects
+- **[ARCHER – Cognitive Robotics System](https://github.com/Aditya-1711/archer_ros)** — LLM reasoning + ROS2 control, 80% autonomous navigation success
+- **[Grey Wolf Optimisation for 3D Drone Swarm Coordination](https://github.com/Aditya-1711/grey-wolf-optimization-GWO-)** — GWO-based multi-drone formation control, zero-collision solutions
+- **[Adaptive Code Safety Harness](https://github.com/Aditya-1711/zero-trust-system)** — Docker sandbox for secure AI/API code analysis, 50+ workloads evaluated
+- **[Breast Cancer Classification Pipeline](https://github.com/Aditya-1711/breast-cancer-perception)** — 98.25% accuracy, multi-model diagnostic pipeline
+
+## 📊 GitHub Stats
+![](https://github-readme-stats.vercel.app/api?username=Aditya-1711&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
