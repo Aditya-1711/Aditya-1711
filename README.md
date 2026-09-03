@@ -49,7 +49,7 @@ Five-UAV disaster-response coordination framework using Genetic Algorithm and gr
 ### 🧠 [VLA Manipulation](https://github.com/Aditya-1711/vla-manipulation)
 Vision-Language-Action robotic manipulation pipeline connecting visual-language reasoning with robot actions.
 
-### 👁️ VLM-Based Robot Navigation
+### 👁️ [VLM-Based Robot Navigation](https://github.com/Aditya-1711/VLM-Grounded-Object-Navigation-)
 Natural-language object navigation pipeline combining visual-language grounding with **ROS2 Nav2 and SLAM** for autonomous mobile robot navigation.
 
 ### 🧠 [ARCHER – Cognitive Robotics System](https://github.com/Aditya-1711/archer_ros)
